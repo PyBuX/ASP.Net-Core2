@@ -1,0 +1,14 @@
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\bin\Debug\net8.0\BSUIR_VIS.Domain.deps.json
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\bin\Debug\net8.0\BSUIR_VIS.Domain.runtimeconfig.json
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\bin\Debug\net8.0\BSUIR_VIS.Domain.dll
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\bin\Debug\net8.0\BSUIR_VIS.Domain.pdb
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.csproj.AssemblyReference.cache
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.AssemblyInfoInputs.cache
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.AssemblyInfo.cs
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.csproj.CoreCompileInputs.cache
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.dll
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\refint\BSUIR_VIS.Domain.dll
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.pdb
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\BSUIR_VIS.Domain.genruntimeconfig.cache
+D:\Учёба\СППР\КР2\BSUIR_VIS\BSUIR_VIS.Domain\obj\Debug\net8.0\ref\BSUIR_VIS.Domain.dll
